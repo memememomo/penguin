@@ -4,12 +4,12 @@ class Controller
     /**
      * @param コントローラ名
      */
-    private $name;
+    public $name;
 
     /**
      * @param アクション名
      */
-    private $action;
+    public $action;
 
     /**
      * @param ビュー
